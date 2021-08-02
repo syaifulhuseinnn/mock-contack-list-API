@@ -1,16 +1,22 @@
 {
-  "posts":[
+  "contact":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+			"id": 1,
+			"fullname": "Syaiful Anwar Husen Lubis",
+			"nickname": "Syaiful",
+			"phone_number": "082268192288"
+  	},
+		{
+			"id": 2,
+			"fullname": "Van Der Sar",
+			"nickname": "Van",
+			"phone_number": "081188990011"
+		},
+		{
+			"id": 3,
+			"fullname": "Steven Gerrard",
+			"nickname": "Gerrard",
+			"phone_number": "08529990011"
+		}
   ]
 }
