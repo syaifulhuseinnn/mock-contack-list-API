@@ -1,22 +1,100 @@
 {
-  "contact":[
-    {
-			"id": 1,
-			"fullname": "Syaiful Anwar Husen Lubis",
-			"nickname": "Syaiful",
-			"phone_number": "082268192288"
-  	},
+	"contacts": [
 		{
-			"id": 2,
-			"fullname": "Van Der Sar",
-			"nickname": "Van",
-			"phone_number": "081188990011"
+			"id": 1,
+			"first_name": "Syaiful",
+			"middle_name": "Anwar Husen",
+			"last_name": "Lubis",
+			"job_title": "Software Engineer",
+			"department": "Software Engineer",
+			"company": "Mitrais",
+			"phone_number": "082268192288",
+			"email": "syaifulhuseinnn@gmail.com",
+			"address": [
+				{
+					"id": 1,
+					"name": "Home",
+					"street": "Dusun VII Jl. Makmur No.50",
+					"city": "Deli Serdang",
+					"province": "Sumatera Utara",
+					"postal_code": 20377,
+					"country": "Indonesia"
+				}
+			],
+			"birthday": "30 January 1996",
+			"social_profile": [
+				{
+					"id": 1,
+					"name": "Twitter",
+					"username": "syaifulhuseinnn"
+				}
+			],
+			"notes": "",
+			"nickname": "Syaiful"
 		},
 		{
-			"id": 3,
-			"fullname": "Steven Gerrard",
-			"nickname": "Gerrard",
-			"phone_number": "08529990011"
+			"id": 1,
+			"first_name": "Van",
+			"middle_name": "Der",
+			"last_name": "Sar",
+			"job_title": "Football Player",
+			"department": "Goalkeeper",
+			"company": "Manchester United",
+			"phone_number": "089121926742",
+			"email": "vandersar@email.com",
+			"address": [
+				{
+					"id": 1,
+					"name": "Home",
+					"street": "Jl. Deandels No.11",
+					"city": "Amsterdam",
+					"province": "Amsterdam Pusat",
+					"postal_code": 53422,
+					"country": "Netherland"
+				}
+			],
+			"birthday": "11 September 1986",
+			"social_profile": [
+				{
+					"id": 1,
+					"name": "Twitter",
+					"username": "vandersar_official"
+				}
+			],
+			"notes": "",
+			"nickname": "Van"
+		},
+		{
+			"id": 1,
+			"first_name": "Steve",
+			"middle_name": "",
+			"last_name": "Jobs",
+			"job_title": "CEO",
+			"department": "Product",
+			"company": "Apple Inc",
+			"phone_number": "0628788811222",
+			"email": "akangsteave@apple.com",
+			"address": [
+				{
+					"id": 1,
+					"name": "Home",
+					"street": "Dusun X Jl. Keluarga No.10",
+					"city": "Los Angeles",
+					"province": "America Pusat",
+					"postal_code": 22222,
+					"country": "United State"
+				}
+			],
+			"birthday": "21 April 1981",
+			"social_profile": [
+				{
+					"id": 1,
+					"name": "Twitter",
+					"username": "steavejobs_official"
+				}
+			],
+			"notes": "",
+			"nickname": "Steve"
 		}
-  ]
+	]
 }
